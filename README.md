@@ -65,8 +65,10 @@ pip install streamlit opencv-python ultralytics whisper pydub torch torchvision 
 ### 2️⃣ Run the applications
 **🎨 Run Image & Video Colorization**
 - streamlit run app_colorization.py
+  
 **🔍 Run Object Detection**
 - streamlit run app_object.py
+  
 **🎙 Run Speech Recognition**
 - streamlit run app_speech.py
 
