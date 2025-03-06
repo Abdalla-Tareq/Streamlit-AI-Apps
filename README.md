@@ -60,7 +60,7 @@ The application is built with **Streamlit** as the user interface and utilizes A
 ### 1️⃣ Install dependencies  
 ```bash
 pip install streamlit opencv-python ultralytics whisper pydub torch torchvision numpy moviepy pillow
-
+```
 ---
 ### 2️⃣ Run the applications
 **🎨 Run Image & Video Colorization**
